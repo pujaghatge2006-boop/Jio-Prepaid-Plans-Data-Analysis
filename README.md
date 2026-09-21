@@ -77,13 +77,6 @@ The final Power BI dashboard brings together KPIs and visualizations to compare:
 * Pricing versus validity
 * Pricing versus data offerings
 
-## Power BI Dashboard
-
-The final dashboard presents the analysis through
-interactive KPIs and visualizations.
-
-![Jio Prepaid Plans Dashboard](Images/Jio_Prepaid_Plans_Dashboard.png)
-
 🔍 Key Insights
 
 The analysis helps identify differences in pricing and value across prepaid plans.
